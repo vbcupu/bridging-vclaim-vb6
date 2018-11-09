@@ -1,0 +1,34 @@
+ÿ`{
+           "request": {
+              "t_sep": {
+                 "noKartu": "0001112230666",
+                 "tglSep": "2017-10-18",
+                 "ppkPelayanan": "0301R001",
+                 "jnsPelayanan": "2",
+                 "klsRawat": "3",
+                 "noMR": "123456",
+                 "rujukan": {
+                    "asalRujukan": "1",
+                    "tglRujukan": "2017-10-17",
+                    "noRujukan": "1234567",
+                    "ppkRujukan": "00010001"
+                 },
+                 "catatan": "test",
+                 "diagAwal": "A00.1",
+                 "poli": {
+                    "tujuan": "INT",
+                    "eksekutif": "0"
+                 },
+                 "cob": {
+                    "cob": "0"
+                 },
+                 "jaminan": {
+                    "lakaLantas": "1",
+                    "penjamin": "1",
+                    "lokasiLaka": "Jakarta"
+                 },
+                 "noTelp": "081919999",
+                 "user": "Coba Ws"
+              }
+           }
+        }              
